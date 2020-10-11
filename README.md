@@ -13,7 +13,7 @@ found through [this page on github](https://github.com/owid/co2-data) and then m
 
 ## Second plot: Annual average temperatures in the United States (1990-2018)
 ![secondPlot](temperaturePlot.png)
-As you can see, this plot shows the average temperature in the United States, every year since 1990. Honestly, this graph turned out to bve much more chaotic than I expected, and it doesn't really show a trend. This data set, however, is extremly broad. It would be important to take a look at average temperatures during different seasons, across different states to be able to anlyze the data. <br />
+As you can see, this plot shows the average temperature in the United States, every year since 1990. Honestly, this graph turned out to be much more chaotic than I expected, and it doesn't really show a trend. This data set, however, is extremly broad. It would be important to take a look at average temperatures during different seasons, across different states to be able to anlyze the data. <br />
 Here's the [Temperature data source](https://www.statista.com/statistics/500472/annual-average-temperature-in-the-us/)
 
 
