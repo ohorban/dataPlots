@@ -6,7 +6,7 @@
 
 ## First plot: Production-based CO2 emissions in the U.S. and CO2emissions as a percentage of global total (1990-2018)
 ![firstPlot](CO2plot.png)
-As you can see, I have 2 separate bar charts on this graph. The blue one represents the amount of CO2 emmited in the US every year (in hundred million tonnes). The orange bar chart represents the percantage of America's CO2 emission out of global CO2 emmission. There is really nothing else for me to say except the fact that these numbers make me really sad ... ;(
+As you can see, I have 2 separate bar charts on this graph. The blue one represents the amount of CO2 emmited in the US every year (in hundred million tonnes). The orange bar chart represents the percantage of America's CO2 emission out of global CO2 emmission. There is really nothing else for me to say except the fact that these numbers make me really sad ... :sob:
 Here's the [CO2 data source](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)
 found through [this page on github](https://github.com/owid/co2-data) and then modified for my purpose
 
