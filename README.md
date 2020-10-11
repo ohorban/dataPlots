@@ -1,14 +1,14 @@
 # CS40 Homework2: Visualizing interesting datasets
-![comic](/Users/oleksandr/Desktop/HW2/dataPlots/complaints-about-weather.png)
+<img src=complaints-about-weather.png>
 **Description:**
     For this homework, I researched data on the topic that interests me - climate change. As it was proven, CO2 emissions play a role in a global waming, so I searched for data that show CO2 emisions in the Unite states. I also took a look at the average annual temperatures in the United States since 1990.
 
 
-![firstPlot](dataPlots/CO2plot.png)
+![firstPlot](CO2plot.png)
 
 
 
-![secondPlot](dataPlots/temperaturePlot.png)
+![secondPlot](temperaturePlot.png)
 
 
 
