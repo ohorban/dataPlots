@@ -7,10 +7,10 @@ import json
 import matplotlib.pyplot as plot
 import numpy as np
 
-with open("/Users/oleksandr/Desktop/HW2/co2Data.json") as co2DataJason:
+with open("/Users/oleksandr/Desktop/HW2/dataPlots/co2Data.json") as co2DataJason:
     co2Data = json.load(co2DataJason)["USA"]["data"]
 
-with open("/Users/oleksandr/Desktop/HW2/temps.json") as tempDataJason:
+with open("/Users/oleksandr/Desktop/HW2/dataPlots/temps.json") as tempDataJason:
     tempData = json.load(tempDataJason)
 
 yearList= [] #same for both
